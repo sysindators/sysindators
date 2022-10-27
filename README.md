@@ -1,6 +1,8 @@
 # Sysindators V1.0.0
 
-Sysindators is a tool framework made especially for hacking, has tools that help you to create extraordinary things.
+Sysindators (System Intruders and Data Predators) is a tool framework made especially for hacking, has tools that help you to create extraordinary things.
+
+Sysindators is the name of the team? Yes, that's the name of the team in the black hat category.
 
 Documentation that can help you use Sysindators for hacking : https://docs.sysidators.org
 
