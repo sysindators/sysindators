@@ -48,7 +48,7 @@ python sysindators.py
 If you get a notification like this when you run Sysindators, follow our steps to fix this problem:
 ```shell
 Traceback (most recent call last):
-  File "C:\Users\Axioo\OneDrive\Desktop\sysindators\sysindators.py", line 88, in <module>
+  File "C:\Users\Brand\OneDrive\Desktop\sysindators\sysindators.py", line 88, in <module>
     main()
   File "C:\Users\Brand\OneDrive\Desktop\sysindators\sysindators.py", line 84, in main
     console.print(table)
