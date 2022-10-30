@@ -39,7 +39,7 @@ If everything is installed, please open one of the CMD, Windows PowerShell, or G
 ```shell
 git clone https://github.com/sysindators/sysindators
 cd sysindators
-chmod +x ./termux/install.sh
+chmod +x ./windows/install.sh
 ./termux/install.sh
 python sysindators.py
 ```
