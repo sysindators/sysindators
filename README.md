@@ -48,25 +48,25 @@ python sysindators.py
 If you get a notification like this when you run Sysindators, follow our steps to fix this problem:
 ```shell
 Traceback (most recent call last):
-  File "C:\Users\Axioo\OneDrive\Desktop\d4rck51n\sysindators\sysindators.py", line 88, in <module>
+  File "C:\Users\Axioo\OneDrive\Desktop\sysindators\sysindators.py", line 88, in <module>
     main()
-  File "C:\Users\Axioo\OneDrive\Desktop\d4rck51n\sysindators\sysindators.py", line 84, in main
+  File "C:\Users\Brand\OneDrive\Desktop\sysindators\sysindators.py", line 84, in main
     console.print(table)
-  File "C:\Users\Axioo\AppData\Local\Programs\Python\Python310\lib\site-packages\rich\console.py", line 1667, in print
+  File "C:\Users\Brand\AppData\Local\Programs\Python\Python310\lib\site-packages\rich\console.py", line 1667, in print
     with self:
-  File "C:\Users\Axioo\AppData\Local\Programs\Python\Python310\lib\site-packages\rich\console.py", line 869, in __exit__
+  File "C:\Users\Brand\AppData\Local\Programs\Python\Python310\lib\site-packages\rich\console.py", line 869, in __exit__
     self._exit_buffer()
-  File "C:\Users\Axioo\AppData\Local\Programs\Python\Python310\lib\site-packages\rich\console.py", line 827, in _exit_buffer
+  File "C:\Users\Brand\AppData\Local\Programs\Python\Python310\lib\site-packages\rich\console.py", line 827, in _exit_buffer
     self._check_buffer()
-  File "C:\Users\Axioo\AppData\Local\Programs\Python\Python310\lib\site-packages\rich\console.py", line 2024, in _check_buffer
+  File "C:\Users\Brand\AppData\Local\Programs\Python\Python310\lib\site-packages\rich\console.py", line 2024, in _check_buffer
     legacy_windows_render(buffer, LegacyWindowsTerm(self.file))
-  File "C:\Users\Axioo\AppData\Local\Programs\Python\Python310\lib\site-packages\rich\_windows_renderer.py", line 17, in legacy_windows_render
+  File "C:\Users\Brand\AppData\Local\Programs\Python\Python310\lib\site-packages\rich\_windows_renderer.py", line 17, in legacy_windows_render
     term.write_styled(text, style)
-  File "C:\Users\Axioo\AppData\Local\Programs\Python\Python310\lib\site-packages\rich\_win32_console.py", line 442, in write_styled
+  File "C:\Users\Brand\AppData\Local\Programs\Python\Python310\lib\site-packages\rich\_win32_console.py", line 442, in write_styled
     self.write_text(text)
-  File "C:\Users\Axioo\AppData\Local\Programs\Python\Python310\lib\site-packages\rich\_win32_console.py", line 403, in write_text
+  File "C:\Users\Brand\AppData\Local\Programs\Python\Python310\lib\site-packages\rich\_win32_console.py", line 403, in write_text
     self.write(text)
-  File "C:\Users\Axioo\AppData\Local\Programs\Python\Python310\lib\encodings\cp1252.py", line 19, in encode
+  File "C:\Users\Brand\AppData\Local\Programs\Python\Python310\lib\encodings\cp1252.py", line 19, in encode
     return codecs.charmap_encode(input,self.errors,encoding_table)[0]
 UnicodeEncodeError: 'charmap' codec can't encode characters in position 16-59: character maps to <undefined>
 ```
