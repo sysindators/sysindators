@@ -8,6 +8,9 @@ Documentation that can help you use Sysindators for hacking : -
 
 Official Website : -
 
+# How to use
+To run Sysindators we can type show it will bring up all the tools list framed by the table.
+
 # Installation for Linux
 ```shell
 sudo apt-get update
