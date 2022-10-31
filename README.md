@@ -9,7 +9,7 @@ Documentation that can help you use Sysindators for hacking : -
 Official Website : -
 
 # How to use
-To run Sysindators we can type show it will bring up all the tools list framed by the table.
+To run Sysindators we can type command ``show`` it will bring up all tools list framed by table.
 
 # Installation for Linux
 ```shell
