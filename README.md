@@ -4,9 +4,9 @@ Sysindators (System Intruders and Data Predators) is a tool framework made espec
 
 Sysindators is the name of the team? Yes, that's the name of the team in the black hat category.
 
-Documentation that can help you use Sysindators for hacking : -
+Documentation that can help you use Sysindators for hacking: -
 
-Official Website : -
+**Official Website:** -
 
 **Disclaimer:** Please do not use this on a device you don't own or do not have permission to. We do not take any responsibility.
 
