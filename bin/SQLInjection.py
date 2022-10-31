@@ -87,4 +87,3 @@ def scan_sql_injection(url):
 def run(url):
 	scan_sql_injection(url)
 	clear_cache(dir=".")
-    logout()
