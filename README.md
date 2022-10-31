@@ -22,7 +22,7 @@ python sysindators.py
 ```shell
 pkg update
 pkg upgrade
-pkg install python python2 python3 git
+pkg install git
 git clone https://github.com/sysindators/sysindators
 cd sysindators
 chmod +x ./termux/install.sh
