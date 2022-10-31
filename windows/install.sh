@@ -2,22 +2,22 @@
 
 echo -e "\n\e[1;32m[!] In process of installation...\e[0m\n"
 
-pip install requests
+pip2 install requests
 
-pip install rich
+pip2 install rich
 
-pip install phonenumbers
+pip2 install phonenumbers
 
-pip install opencage
+pip2 install opencage
 
-pip install folium
+pip2 install folium
 
-pip install geocoder
+pip2 install geocoder
 
-pip install bs4
+pip2 install bs4
 
-pip install scapy
+pip2 install scapy
 
-python -m pip install clear_cache
+python -m pip2 install clear_cache
 
 echo -e "\n\e[1;32m[!] The installation is complete and run the command: python sysindators.py\e[0m"
