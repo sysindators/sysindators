@@ -2,9 +2,9 @@
 
 echo -e "\n\e[1;32m[!] In process of installation...\e[0m\n"
 
-python -m pip install --upgrade pip
-
 pkg install python python2 python3 -y
+
+python -m pip install --upgrade pip
 
 pip install requests
 
