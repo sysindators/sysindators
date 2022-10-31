@@ -85,3 +85,5 @@ python sysindators.py
 <a href="https://github.com/sysindators/sysindators/graphs/contributors">
   <img width="20%" src="https://contrib.rocks/image?repo=sysindators/sysindators" />
 </a>
+
+**Disclaimer:** Please do not use this on a device you don't own or do not have permission to. We do not take any responsibility.
