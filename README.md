@@ -8,9 +8,9 @@ Documentation that can help you use Sysindators for hacking: -
 
 **Official Website:** -
 
-<a href="./TOOLS.md">**List Tools**</a>
-
 **Disclaimer:** Please do not use this on a device you don't own or do not have permission to. We do not take any responsibility.
+
+<a href="./TOOLS.md">**List Tools**</a>
 
 ## How to use
 To run Sysindators we can type command ``show`` it will bring up all tools list framed by table.
