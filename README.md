@@ -13,7 +13,7 @@ Documentation that can help you use Sysindators for hacking: -
 ## How to use
 To run Sysindators we can type command ``show`` it will bring up all tools list framed by table.
 
-![Sysindators](https://user-images.githubusercontent.com/115671161/199219702-3b2a436b-1e98-4ed7-9803-d7f8bb6f1773.png)
+![Sysindators](https://user-images.githubusercontent.com/115671161/199221182-1cbd11cc-d980-4ce7-9164-c4bad1e550d1.jpg)
 
 ## Installation
 
