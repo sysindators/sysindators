@@ -48,12 +48,6 @@ pip install -r requirements.txt
 python sysindators.py
 ```
 
-## install dependecies
-
-```shell
-pip install -r requirements.txt
-```
-
 
 ## Fix Bugs
 If you get a notification like this when you run Sysindators, follow our steps to fix this problem:
