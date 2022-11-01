@@ -3,4 +3,5 @@
 - Track Location
 - XSS Scanner
 - Synflood
-- SQL Injection
+- SQL Injection Detector
+- Traceroute
