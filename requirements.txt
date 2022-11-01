@@ -1,0 +1,11 @@
+certifi==2022.5.18.1
+charset-normalizer==2.0.12
+commonmark==0.9.1
+idna==3.3
+phonenumbers==8.12.57
+plotly==5.8.0
+Pygments==2.13.0
+requests==2.27.1
+rich==12.6.0
+tenacity==8.0.1
+urllib3==1.26.9

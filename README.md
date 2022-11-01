@@ -8,10 +8,13 @@ Documentation that can help you use Sysindators for hacking : -
 
 Official Website : -
 
-# How to use
+## How to use
 To run Sysindators we can type show it will bring up all the tools list framed by the table.
 
-# Installation for Linux
+
+## Installation
+
+### Installation for Linux
 ```shell
 sudo apt-get update
 sudo apt-get upgrade
@@ -21,7 +24,7 @@ chmod +x ./linux/install.sh
 ./linux/install.sh
 python sysindators.py
 ```
-# Installation for Termux
+### Installation for Termux
 ```shell
 pkg update
 pkg upgrade
@@ -33,7 +36,7 @@ chmod +x ./termux/install.sh
 python sysindators.py
 ```
 
-# Installation for Windows
+### Installation for Windows
 First install Python and Git Bash on the official website below:
 - [**Python**](https://www.python.org)
 - [**Git Bash**](https://git-scm.com/downloads)
@@ -47,7 +50,14 @@ chmod +x ./windows/install.sh
 python sysindators.py
 ```
 
-# Fix Bugs
+## install dependecies
+
+```shell
+pip install -r requirements.txt
+```
+
+
+## Fix Bugs
 If you get a notification like this when you run Sysindators, follow our steps to fix this problem:
 ```shell
 Traceback (most recent call last):

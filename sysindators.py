@@ -1,15 +1,13 @@
 #!/usr/bin/python
 
 import os, sys, random, time
-
 from clear_cache import clear as clear_cache
 from os import system as bash
 from sys import exit as logout
-from bin import TrackLocation, XssScanner, SynFlood, SQLInjection
+from bin import TrackLocation, XssScanner, SynFlood, SQLInjection, Traceroute
 from requests import get as detectionIP
 from rich.console import Console
 from rich.table import Table
-
 
 def starting(s):
     for c in s + "\n":
@@ -109,4 +107,9 @@ def main():
     select()
 
 
-main()
+
+try:
+  main()
+except ImportError :
+  print ("please install required modules, before start program!")
+
