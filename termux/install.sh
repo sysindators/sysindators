@@ -2,7 +2,7 @@
 
 echo -e "\n\e[1;32m[!] In process of installation...\e[0m\n"
 
-pkg install python python2 python3 -y
+pkg install python -y
 
 python -m pip install --upgrade pip
 
