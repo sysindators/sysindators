@@ -1,5 +1,8 @@
 # Sysindators
 
+[![Build status](https://github.com/termux/termux-app/workflows/Build/badge.svg)](https://github.com/sysindators/sysindators/actions)
+[![Testing status](https://github.com/termux/termux-app/workflows/Unit%20tests/badge.svg)](https://github.com/sysindators/sysindators/actions)
+
 Sysindators (System Intruders and Data Predators) is a tool framework made especially for hacking, has tools that help you to create extraordinary things.
 
 Sysindators is the name of the team? Yes, that's the name of the team in the black hat category.
