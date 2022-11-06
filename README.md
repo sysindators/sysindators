@@ -1,4 +1,4 @@
-# Sysindators V1.0.0
+# Sysindators
 
 Sysindators (System Intruders and Data Predators) is a tool framework made especially for hacking, has tools that help you to create extraordinary things.
 
