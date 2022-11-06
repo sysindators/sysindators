@@ -1,4 +1,4 @@
-# Sysindators
+# Sysindators Framework
 
 [![Build status](https://github.com/termux/termux-app/workflows/Build/badge.svg)](https://github.com/sysindators/sysindators/actions)
 [![Testing status](https://github.com/termux/termux-app/workflows/Unit%20tests/badge.svg)](https://github.com/sysindators/sysindators/actions)
