@@ -1,8 +1,8 @@
 # List Tools
 
 - Track Location
--- Track Location Phone Number
--- Track Location IP Address
+  - Phone Number
+  - IP Address
 - XSS Scanner
 - Synflood
 - SQL Injection Detector
