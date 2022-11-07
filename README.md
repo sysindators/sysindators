@@ -25,7 +25,7 @@ To run Sysindators we can type command ``show`` it will bring up all tools list 
 ## Installation
 
 ### Installation for Linux
-```shell
+```bash
 sudo apt-get update
 sudo apt-get upgrade
 git clone https://github.com/sysindators/sysindators
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 python sysindators.py
 ```
 ### Installation for Termux
-```shell
+```bash
 pkg update
 pkg upgrade
 pkg install git python
@@ -50,7 +50,7 @@ First install Python and Git Bash on the official website below:
 - [**Git Bash**](https://git-scm.com/downloads)
 
 If everything is installed, please open one of the CMD, Windows PowerShell, or Git Bash and enter the command below:
-```shell
+```bash
 git clone https://github.com/sysindators/sysindators
 cd sysindators
 pip install -r requirements.txt
@@ -60,7 +60,7 @@ python sysindators.py
 
 ## Fix Bugs
 If you get a notification like this when you run Sysindators, follow our steps to fix this problem:
-```shell
+```bash
 Traceback (most recent call last):
   File "C:\Users\Brand\OneDrive\Desktop\sysindators\sysindators.py", line 88, in <module>
     main()
@@ -85,7 +85,7 @@ Traceback (most recent call last):
 UnicodeEncodeError: 'charmap' codec can't encode characters in position 16-59: character maps to <undefined>
 ```
 Run the command below, and restart Sysndators:
-```shell
+```bash
 chcp.com 65001
 export PYTHONIOENCODING=utf-8
 python sysindators.py
