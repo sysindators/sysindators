@@ -18,7 +18,7 @@ Documentation that can help you use Sysindators for hacking: -
 ## How to use
 To run Sysindators we can type command ``show`` it will bring up all tools list framed by table.
 
-> **Note**: Sysidators only support in python version 3.10 or 3.10.8, Sysidators don't support in python 3.11 yet
+> **Note**: Sysidators recommend using python version 3.10 or 3.10.8, Sysidators is not yet stable in python 3.11
 
 ![Sysindators](https://user-images.githubusercontent.com/115671161/199221182-1cbd11cc-d980-4ce7-9164-c4bad1e550d1.jpg)
 
