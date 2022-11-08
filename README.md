@@ -30,8 +30,8 @@ sudo apt-get update
 sudo apt-get upgrade
 git clone https://github.com/sysindators/sysindators
 cd sysindators
-pip install -r requirements.txt
-python sysindators.py
+pip3 install -r requirements.txt
+python3 sysindators.py
 ```
 ### Installation for Termux
 ```bash
@@ -40,8 +40,8 @@ pkg upgrade
 pkg install git python
 git clone https://github.com/sysindators/sysindators
 cd sysindators
-pip install -r requirements.txt
-python sysindators.py
+pip3 install -r requirements.txt
+python3 sysindators.py
 ```
 
 ### Installation for Windows
@@ -53,8 +53,8 @@ If everything is installed, please open one of the CMD, Windows PowerShell, or G
 ```bash
 git clone https://github.com/sysindators/sysindators
 cd sysindators
-pip install -r requirements.txt
-python sysindators.py
+pip3 install -r requirements.txt
+python3 sysindators.py
 ```
 
 
