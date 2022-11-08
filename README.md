@@ -88,7 +88,7 @@ Run the command below, and restart Sysndators:
 ```bash
 chcp.com 65001
 export PYTHONIOENCODING=utf-8
-python sysindators.py
+python3 sysindators.py
 ```
 
 # Contributors
