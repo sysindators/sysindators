@@ -30,6 +30,7 @@ sudo apt-get update
 sudo apt-get upgrade
 git clone https://github.com/sysindators/sysindators
 cd sysindators
+pip3 install --upgrade pip
 pip3 install -r requirements.txt
 python3 sysindators.py
 ```
@@ -40,6 +41,7 @@ pkg upgrade
 pkg install git python
 git clone https://github.com/sysindators/sysindators
 cd sysindators
+pip3 install --upgrade pip
 pip3 install -r requirements.txt
 python3 sysindators.py
 ```
@@ -53,6 +55,7 @@ If everything is installed, please open one of the CMD, Windows PowerShell, or G
 ```bash
 git clone https://github.com/sysindators/sysindators
 cd sysindators
+pip3 install --upgrade pip
 pip3 install -r requirements.txt
 python3 sysindators.py
 ```
